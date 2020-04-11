@@ -1,0 +1,2 @@
+# UserImport
+baserCMSにユーザー情報をCSVインポートにて登録できるプラグインです
