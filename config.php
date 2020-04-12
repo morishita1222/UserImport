@@ -12,4 +12,4 @@ $description = '規定のCSVファイルに記入したユーザー情報をイ�
 $author = 'yutori';
 $url = 'https://yutori-shine.com/';
 $adminLink = ['admin' => true, 'plugin' => 'user_import', 'controller' => 'user_imports'];
-$installMessage = 'hoge';
+// $installMessage = 'hoge';
